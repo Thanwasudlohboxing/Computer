@@ -1,0 +1,50 @@
+"# Computer" 
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CPU RAM</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Mitr&family=Noto+Sans+Thai&display=swap" rel="stylesheet">
+</head>
+<body>
+    <style>
+        h1{
+            font-family: 'Mitr', sans-serif;
+            font-size: 40px;
+        }
+        li{
+            font-family: 'Noto Sans Thai', sans-serif;
+            font-size: 30px;
+            margin: 20px;
+        }
+        body{
+            background-color: linen;
+        }
+    </style>
+    <center>
+        <h1>การประกอบ CPU และ RAM ลงเมนบอร์ด</h1>
+    </center>
+    <ol type="I">
+        <li>เปิดคู่มือของเมนบอร์ด หาตำแหน่งของ Socket สำหรับติดตั้ง CPU</li>
+        <img src="3.01.jpg" alt="">
+        <li>เมื่อพบตำแหน่งแล้วยกก้าน Socket ออก</li>
+        <img src="3.02.jpg" alt="">
+        <li>วาง CPU บน Socket สังเกตว่าหากตำแหน่งขาตรง จะสามารถวาง CPU ลงบนตำแหน่ง Socket โดยไม่เอียง และไม่ต้องออกแรงกดเลย</li>
+        <img src="3.03.jpg" alt="">
+        <li>กดก้านล็อค CPU ลงเพื่อยึด CPU ให้แน่นอยู่กับที่</li>
+        <img src="3.04.jpg" alt="">
+        <li>นำฮีทซิงค์ติดตั้งบนตัว CPU</li>
+        <img src="3.05.jpg" alt="">
+        <li>วางขายึดฮีทซิงค์ลงบนเมนบอร์ด กดลงไปตรง ๆ จนขายึดล็อคเข้ากับกรอบ</li>
+        <img src="30.06.jpg" alt="">
+        <li>โยกคันล็อคฮีทซิงค์ด้านบน 2 อันในทิศทางตรงกันข้ามจนสุด</li>
+        <img src="7.jpg" alt="">
+        <li>เสียบสายพัดลมระบายความร้อนโดยหาตำแหน่งSocketบนเมนบอร์ดให้เมนบอร์ดจ่ายไฟให้พัดลมทำงาน</li>
+        <img src="8.jpg" alt="">
+    </ol>
+</body>
+</html>
